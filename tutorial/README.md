@@ -104,7 +104,7 @@ Ok lets make something to update!
 - `cd stage3`
 - `python setup.py bdist_esky`
 
-Ravigate to "stage3/dist/" and start the server.
+Navigate to "stage3/dist/" and start the server.
 
 go ahead and run the app 
 
